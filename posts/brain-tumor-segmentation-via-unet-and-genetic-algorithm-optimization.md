@@ -3,6 +3,8 @@ title: Brain Tumor Segmentation via U-Net and Genetic Algorithm Optimization
 publish_date: 2025-02-10
 ---
 
+With the increasing prevalence of brain tumors, accurate and efficient detection methods are essential for improving patient outcomes. Recent advancements in deep learning have revolutionized medical image analysis, yet optimizing these models remains challenging.
+
 ## Abstract
 
 Brain tumor detection and segmentation are critical tasks in medical imaging, significantly impacting early diagnosis and treatment planning. While deep learning models such as U-Net have shown great success in medical image segmentation, manual hyperparameter tuning remains a major bottleneck, requiring expert intuition and extensive computational resources. In this article, we introduce an automated U-Net hyperparameter optimization method using Genetic Algorithms (GA) to enhance segmentation accuracy and efficiency. Unlike traditional methods such as grid search or random search, GA mimics biological evolution to systematically explore optimal hyperparameter combinations, reducing manual effort.
@@ -160,3 +162,33 @@ Genetic Algorithms (GA) have been increasingly used for neural network optimizat
 - [Sun et al. (2019)](https://www.researchgate.net/publication/357224328_A_Genetic_Algorithm_and_RNN-LSTM_model_for_Remaining_Battery_Capacity_Prediction) used GA for optimizing RNN hyperparameters, demonstrating improved generalization.
 
 Our research aims to address this gap by systematically evaluating GA for U-Net hyperparameter optimization, comparing it against Bayesian Optimization and Random Search on the BraTS dataset. We hypothesize that GA can yield competitive segmentation accuracy while reducing computational cost.
+
+## Counterarguments
+
+1. Another AI Medical Project? Hardly Groundbreaking.
+
+    This project is primarily an experiment. I’m not aiming to create something revolutionary—it's simply a bachelor’s thesis. Reinventing the wheel isn’t the goal here.
+
+2. Real-World Impact? More Like Lab-Only Results.
+
+   I fully understand that the medical field requires rigorous validation. My research isn't intended for direct clinical use, but it could potentially serve as a reference for future advancements in medical AI—and if it does, I'll gladly take credit for that.
+
+3. Model Performance? Expect Competition From Transformers.
+
+   While vision transformers (ViTs) are gaining traction, I aim to keep things straightforward. I'm not an expert in this field, so U-Net is a practical and well-established choice for my scope.
+
+4. Technical Challenges: Be Ready to Push Your Hardware.
+
+   Fortunately, I have access to my university's computing resources. Plus, my laptop with a GeForce RTX 3050 should be sufficient to handle the training process.
+
+5. Results? Manage Your Expectations.
+
+   Given the scope of this project, I’m aware the results may not be groundbreaking. However, achieving solid performance and demonstrating the effectiveness of genetic algorithms for hyperparameter tuning is my main objective.
+
+6. Scalability? Not a Priority—Yet.
+
+   Scalability isn't my primary focus. My goal is to build a working system and prove that genetic algorithms can outperform traditional methods like Bayesian optimization or grid search in this context.
+
+7. Why Choose This Idea If It’s Outside My Main Scope?
+
+   I enjoy challenges and constantly seek opportunities to expand my skill set. With my background in backend engineering, I have experience dealing with system bottlenecks and performance optimization. This project allows me to apply that knowledge in a new domain—deep learning optimization. While I’m not entirely new to machine learning, my previous projects were more focused on personal learning. This thesis is my opportunity to tackle a more complex problem and explore the practical benefits of optimizing deep learning models.
