@@ -11,6 +11,6 @@ blog({
     { title: "LinkedIn", url: "https://www.linkedin.com/in/ezrantn" },
   ],
   middlewares: [
-    ga("UA-XXXXXXXX-X"),
+    ga("G-RJ3SV8DLML"),
   ]
 });
