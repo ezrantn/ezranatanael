@@ -3,8 +3,6 @@ title: Early Return Pattern
 publish_date: 2024-12-31
 ---
 
-## Preface
-
 When writing code, especially as projects grow bigger, it can become easy to fall into a trap of complex, nested logic. As you try to handle various conditions - such as errors or edge cases - you might find yourself writing deeply nested if statements that make the code harder to read and maintain. This is where a technique called early return can help.
 
 In programming, early return allows us to handle edge cases or errors right away, making the "happy path" (the ideal path where everything works as expected) clearer and the code easier to follow. By exiting a function as soon as something goes wrong, we avoid deep nesting and focus the main logic of the function where it belongs.

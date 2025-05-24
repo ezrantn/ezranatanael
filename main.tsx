@@ -3,7 +3,7 @@ import blog, { ga } from "blog";
 blog({
   title: "Ezra Natanael",
   author: "Ezra Natanael",
-  avatar: "https://deno-avatar.deno.dev/avatar/blog.svg",
+  avatar: "./posts/static/pic-of-me.jpeg",
   avatarClass: "rounded-full",
   links: [
     { title: "Email", url: "mailto:ezrantn@proton.me" },
