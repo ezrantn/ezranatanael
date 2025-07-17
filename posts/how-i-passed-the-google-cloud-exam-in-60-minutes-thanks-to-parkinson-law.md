@@ -13,7 +13,7 @@ First coined by Cyril Northcote Parkinson in a humorous 1955 essay for The Econo
 
 **"Work expands so as to fill the time available for its completion."**
 
-It’s a brilliant explanation for why we can spend a whole week on a task that could just as easily be done in a day. The sheer amount of time I had allocated - two entire months - made the task of studying seem monumental and, therefore, easy to postpone. The work of "getting certified" had expanded to fill its two-month container, and my motivation languished. The deadline wasn't pushing me, so I wasn't moving. Days bled into weeks, and my study plan remained a noble intention rather than a daily practice.
+It’s a brilliant explanation for why we can spend a whole week on a task that could just as easily be done in a day. The sheer amount of time I had allocated - two entire months - made the task of studying seem monumental and, therefore, easy to postpone. The work of "getting certified" had expanded to fill its two-month container, and my motivation languished. The deadline wasn't pushing me, so I wasn't moving. Days bled into weeks, and my study plan remained a noble intention rather than a daily practice. This [research](https://www.researchgate.net/publication/359442232_Parkinsons-Law) explains Parkinson's Law in more detail.
 
 ## The One-Hour Sprint
 
@@ -31,7 +31,7 @@ That one hour was, without a doubt, the most focused I have ever been in my life
 
 ## The Surprising Takeaway
 
-When I clicked the "Submit" button and the word "PASS" materialized on the screen, the feeling wasn't just relief. It was shock, followed by a moment of genuine insight.
+When I clicked the **"Submit"** button and the word **"PASS"** materialized on the screen, the feeling wasn't just relief. It was shock, followed by a moment of genuine insight.
 
 Did I get lucky? Absolutely. Would I ever recommend this as a study strategy? Absolutely not. It's a high-wire act with a very real chance of failure.
 
@@ -41,4 +41,4 @@ The real lesson from my accidental experiment with Parkinson's Law is not that p
 
 Maybe the secret to getting more done isn't finding more time, but intentionally giving ourselves less of it.
 
-You can view my certificate here [ACE Certification](https://www.credly.com/badges/dad20801-ed76-4c5c-bdf8-2465600f28ba/public_url)
+You can view my certificate here [ACE Certification](https://www.credly.com/badges/dad20801-ed76-4c5c-bdf8-2465600f28ba/public_url).
