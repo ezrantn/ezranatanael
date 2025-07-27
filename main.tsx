@@ -14,5 +14,6 @@ blog({
   ],
   middlewares: [
     ga("G-RJ3SV8DLML"),
-  ]
+  ],
+  favicon: "favicon.ico"
 });
