@@ -7,10 +7,11 @@ blog({
   avatarClass: "rounded-full",
   description: "Software Engineer",
   links: [
+    { title: "Medium", url: "https://medium.com/@ezrantn" },
     { title: "Email", url: "mailto:ezrantn@proton.me" },
     { title: "GitHub", url: "https://github.com/ezrantn" },
     { title: "LinkedIn", url: "https://www.linkedin.com/in/ezrantn" },
-    { title: "Google Scholar", url: "https://scholar.google.com/citations?hl=en&user=iubOEX4AAAAJ" }
+    { title: "Google Scholar", url: "https://scholar.google.com/citations?hl=en&user=iubOEX4AAAAJ" },
   ],
   middlewares: [
     ga("G-RJ3SV8DLML"),
