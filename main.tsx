@@ -7,7 +7,6 @@ blog({
   avatarClass: "rounded-full",
   description: "Software Engineer",
   links: [
-    { title: "Medium", url: "https://medium.com/@ezrantn" },
     { title: "Email", url: "mailto:ezrantn@proton.me" },
     { title: "GitHub", url: "https://github.com/ezrantn" },
     { title: "LinkedIn", url: "https://www.linkedin.com/in/ezrantn" },
