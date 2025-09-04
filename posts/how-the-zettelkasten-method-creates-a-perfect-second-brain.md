@@ -67,5 +67,3 @@ You don't need a perfect system from day one. The magic is in the process.
 4. Trust the Process: Your second brain will feel empty and a little useless at first. That's normal. After a week, you'll have a small cluster of ideas. After a month, a growing network. After a year, you will have an indispensable partner for your thinking, a personal treasure trove of knowledge that no one else has.
 
 You'll stop worrying about forgetting things because you'll know they are safely stored and, more importantly, retrievable. You are not just organizing your life; you are creating a system that will pay you back with interest in the form of creativity, clarity, and peace of mind.
-
-**Start with one note. Start today.**
