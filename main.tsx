@@ -3,7 +3,7 @@ import blog, { ga } from "blog";
 blog({
   title: "Ezra Natanael",
   author: "Ezra Natanael",
-  avatar: "./posts/static/_.jpeg",
+  avatar: "./posts/static/profile.jpg",
   avatarClass: "rounded-full",
   description: "Software Engineer",
   links: [
